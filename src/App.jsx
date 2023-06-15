@@ -6,6 +6,45 @@ import { Header } from "./components/Header";
 import { Sidebar } from "./components/Sidebar";
 import { Post } from "./components/Post";
 
+const posts = [
+  {
+    id: 1,
+    author: {
+      avatarUrl: "https://github.com/diego3g.png",
+      name: "Diego Fernandes",
+      role: "CTO @Rocketseat",
+    },
+    content: [
+      { type: "paragraph", content: "Fala galeraa 👋" },
+      {
+        type: "paragraph",
+        content:
+          "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+      },
+      { type: "link", content: "jane.design/doctorcare" },
+    ],
+    publishesAt: new Date("2022-06-15 20:24:18"),
+  },
+  {
+    id: 2,
+    author: {
+      avatarUrl: "https://github.com/maykbrito.png",
+      name: "Mayk Brito",
+      role: "Educator @Rocketseat",
+    },
+    content: [
+      { type: "paragraph", content: "Fala pessoal 👋" },
+      {
+        type: "paragraph",
+        content:
+          "Finalmente finalizei meu novo site/portfólio. Foi um baita desafio criar todo o design e codar na unha, mas consegui 💪🏻",
+      },
+      { type: "link", content: "devonlane.design" },
+    ],
+    publishesAt: new Date("2022-06-14 18:13:56"),
+  },
+];
+
 export function App() {
   return (
     <div>
@@ -15,14 +54,15 @@ export function App() {
         <Sidebar />
 
         <main>
-          <Post
-            author="Diego Fernandes"
-            content="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis explicabo natus perspiciatis expedita architecto sed quis nihil illum, magnam consequatur ipsum nobis vel amet eligendi quibusdam, repellat qui aliquam officiis?"
-          />
-          <Post
-            author="Guilherme P Milék"
-            content="Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Per aumento de cachacis, eu reclamis. Paisis, filhis, espiritis santis. Cevadis im ampola pa arma uma pindureta."
-          />
+          {posts.map((post) => {
+            return (
+              <Post
+                author={post.author}
+                content={post.content}
+                publishedAt={post.publishedAt}
+              />
+            );
+          })}
         </main>
       </div>
     </div>
