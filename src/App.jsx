@@ -23,7 +23,7 @@ const posts = [
       },
       { type: "link", content: "jane.design/doctorcare" },
     ],
-    publishesAt: new Date("2022-06-15 20:24:18"),
+    publishedAt: new Date("2022-06-15 20:24:18"),
   },
   {
     id: 2,
@@ -41,7 +41,7 @@ const posts = [
       },
       { type: "link", content: "devonlane.design" },
     ],
-    publishesAt: new Date("2022-06-14 18:13:56"),
+    publishedAt: new Date("2022-06-14 18:13:56"),
   },
 ];
 
