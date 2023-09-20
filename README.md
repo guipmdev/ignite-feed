@@ -245,7 +245,7 @@ npm install
 npm run dev
 ```
 
-3. Access https://localhost:5173/ to view the application
+2. Access https://localhost:5173/ to view the application
 
 ## 📄 License
 
