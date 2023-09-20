@@ -38,7 +38,7 @@
     alt="Tamanho do repositório"
   />
   <img
-    src="https://img.shields.io/github/commit-activity/m/guipmdev/ignite-feed?color=gray&labelColor=202024&label=atividade de commits"
+    src="https://img.shields.io/github/commit-activity/m/guipmdev/ignite-feed?color=black&labelColor=202024&label=atividade de commits"
     alt="Atividade de commits"
   />
   <a
