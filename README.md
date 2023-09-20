@@ -91,9 +91,7 @@ This project's purpose is to facilitate communication and engagement within a co
 
 ## 🤖 Demo
 
-<p align="center">
-  <video src="./src/assets/videos/ignite-feed.mp4" width="75%" />
-</p>
+https://github.com/guipmdev/ignite-feed/assets/136738335/180321d0-dd16-4f8e-b5ca-a8f23b718c5e
 
 ## 🎨 Layout
 
