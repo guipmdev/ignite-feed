@@ -102,10 +102,11 @@ This project's purpose is to facilitate communication and engagement within a co
 
 ## ✨ Features
 
-| Feature          | Description                      |
-| ---------------- | -------------------------------- |
-| **💬 Comments**  | Add or delete comments on posts. |
-| **👏 Applauses** | Add applauses on posts.          |
+📰 Read awesome posts
+
+💬 Engage in discussions by adding, or deleting, **comments**
+
+👏 **Applaud** to appreciate posts
 
 ## 🤖 Demo
 

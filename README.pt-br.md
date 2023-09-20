@@ -102,10 +102,11 @@ O objetivo desse projeto é facilitar a comunicação e o envolvimento de uma co
 
 ## ✨ Funcionalidades
 
-| Funcionalidade     | Descrição                                    |
-| ------------------ | -------------------------------------------- |
-| **💬 Comentários** | Adicione ou exclua comentários em postagens. |
-| **👏 Aplausos**    | Adicione aplausos em postagens.              |
+📰 Leia postagens incríveis
+
+💬 Participe de discussões adicionando, ou excluindo, **comentários**
+
+👏 **Aplauda** para valorizar as publicações
 
 ## 🤖 Demo
 
