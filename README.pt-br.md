@@ -245,7 +245,7 @@ npm install
 npm run dev
 ```
 
-1. Acesse https://localhost:5173/ para visualizar a aplicação
+2. Acesse https://localhost:5173/ para visualizar a aplicação
 
 ## 📄 Licença
 
