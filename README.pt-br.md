@@ -1,5 +1,5 @@
 <!-- ===== HEADER (Badges) ===== -->
-<p align="end">
+<p align="right">
   <a href="./README.md" title="Read the README in english">
     <img
       src="https://img.shields.io/badge/lang-en-red?style=flat-square&labelColor=202024"

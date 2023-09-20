@@ -1,5 +1,5 @@
 <!-- ===== HEADER (Badges) ===== -->
-<p align="end">
+<p align="right">
   <img
     src="https://img.shields.io/badge/lang-en-gray?style=flat-square&labelColor=202024"
     alt="lang-en"
