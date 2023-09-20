@@ -13,7 +13,7 @@
   />
 </p>
 
-<h1 align="center">
+<p align="center">
   <a
     href="https://guipmdev-ignite-feed.vercel.app/"
     title="Acessar a aplicação web"
@@ -24,7 +24,7 @@
       height="60px"
     />
   </a>
-</h1>
+</p>
 
 <h1 align="center">Ignite Feed</h1>
 
