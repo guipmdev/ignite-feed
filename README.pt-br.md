@@ -1,106 +1,106 @@
 <!-- ===== HEADER (Badges) ===== -->
 <p>
-  <a href="./README.pt-br.md" title="Ler o README em português do Brasil">
+  <a href="./README.md" title="Read the README in english">
     <img
-      src="https://img.shields.io/badge/lang-pt--br-green?style=flat-square&labelColor=202024"
-      alt="lang-pt-br"
+      src="https://img.shields.io/badge/lang-en-red?style=flat-square&labelColor=202024"
+      alt="lang-en"
     />
   </a>
 </p>
 
-<p align="center">
+<h1 align="center">
   <a
     href="https://guipmdev-ignite-feed.vercel.app/"
-    title="Go to the web application"
+    title="Acessar a aplicação web"
   >
     <img
       src="./src/assets/ignite-logo.svg"
-      alt="Ignite Feed logo"
+      alt="Logo do Ignite Feed"
       height="60px"
     />
   </a>
-</p>
+</h1>
 
 <h1 align="center">Ignite Feed</h1>
 
 <p align="center">
   <img
-    src="https://img.shields.io/github/languages/count/guipmdev/ignite-feed?color=%2304D361&labelColor=202024"
-    alt="Repository language count"
+    src="https://img.shields.io/github/languages/count/guipmdev/ignite-feed?color=%2304D361&labelColor=202024&label=linguagens"
+    alt="Contagem de linguagens do repositório"
   />
   <img
-    src="https://img.shields.io/github/repo-size/guipmdev/ignite-feed?labelColor=202024"
-    alt="Repository size"
+    src="https://img.shields.io/github/repo-size/guipmdev/ignite-feed?labelColor=202024&label=tamanho do repo"
+    alt="Tamanho do repositório"
   />
   <img
-    src="https://img.shields.io/github/commit-activity/m/guipmdev/ignite-feed?color=gray&labelColor=202024"
-    alt="Commit activity"
+    src="https://img.shields.io/github/commit-activity/m/guipmdev/ignite-feed?color=gray&labelColor=202024&label=atividade de commits"
+    alt="Atividade de commits"
   />
   <a
     href="https://github.com/guipmdev/ignite-feed/commits/main"
-    title="View repository commits"
+    title="Visualizar commits do repositório"
   >
     <img
-      src="https://img.shields.io/github/last-commit/guipmdev/ignite-feed?labelColor=202024"
-      alt="Last commit"
+      src="https://img.shields.io/github/last-commit/guipmdev/ignite-feed?labelColor=202024&label=último commit"
+      alt="Último commit"
     />
   </a>
-  <a href="./LICENSE" title="View project license">
+  <a href="./LICENSE" title="Visualizar licença do projeto">
     <img
-      src="https://img.shields.io/badge/license-MIT-brightgreen?labelColor=202024"
-      alt="Project license"
+      src="https://img.shields.io/badge/license-MIT-brightgreen?labelColor=202024&label=licen%C3%A7a"
+      alt="Licença do projeto"
     />
   </a>
-  <a href="https://www.rocketseat.com.br/" title="Go to the Rocketseat website">
+  <a href="https://www.rocketseat.com.br/" title="Acessar o site da Rocketseat">
     <img
-      src="https://img.shields.io/badge/Layout_by-Rocketseat-8257e5?labelColor=202024"
-      alt="Layout designer"
+      src="https://img.shields.io/badge/Layout_por-Rocketseat-8257e5?labelColor=202024"
+      alt="Designer do layout"
     />
   </a>
 </p>
 
-![Screenshot of the application initial page](./src/assets/images/cover.png)
+![Captura de tela da página inicial da aplicação](./src/assets/images/cover.png)
 
 <p align="center">
   <a href="https://guipmdev-ignite-feed.vercel.app/"
-    >Go to the web application ↗</a
+    >Acessar a aplicação web ↗</a
   >
 </p>
 
 <details>
   <summary>
-    <h2>📒 Table of Contents</h2>
+    <h2>📒 Índice</h2>
   </summary>
 
-- [📍 Overview](#-overview)
-- [✨ Features](#-features)
+- [📍 Visão geral](#-visão-geral)
+- [✨ Funcionalidades](#-funcionalidades)
 - [🤖 Demo](#-demo)
 - [🎨 Layout](#-layout)
-- [🛠 Technologies](#-technologies)
+- [🛠 Tecnologias](#-tecnologias)
   - [Website](#website)
-  - [Utils](#utils)
-- [🚀 Getting Started](#-getting-started)
-  - [✔️ Prerequisites](#️-prerequisites)
-  - [📦 Installation](#-installation)
-  - [⚙️ Using](#️-using)
-- [📄 License](#-license)
-- [👏 Acknowledgments](#-acknowledgments)
+  - [Úteis](#úteis)
+- [🚀 Primeiros passos](#-primeiros-passos)
+  - [✔️ Pré-requisitos](#️-pré-requisitos)
+  - [📦 Instalação](#-instalação)
+  - [⚙️ Usando](#️-usando)
+- [📄 Licença](#-licença)
+- [👏 Reconhecimentos](#-reconhecimentos)
 </details>
 
 <!-- ===== PROJECT INFOS ===== -->
 
-## 📍 Overview
+## 📍 Visão geral
 
-The core functionality of the project is to create a web application that allows users to view and interact with posts and comments. It provides a user-friendly interface for displaying posts, including the author's information, content, and published date. Users can also leave comments on posts and like or delete comments.
+A principal funcionalidade do projeto é criar uma aplicação web que possibilite aos usuários visualizarem e interagirem com publicações e comentários. Ele oferece uma interface fácil de visualizar as postagens, incluindo as informações do autor, o conteúdo e a data de publicação. Os usuários também podem deixar, curtir ou excluir comentários.
 
-This project's purpose is to facilitate communication and engagement within a community or blog-like environment. Its value proposition lies in its clean visual appearance and responsive design, allowing users to easily navigate and interact with the content.
+O objetivo desse projeto é facilitar a comunicação e o envolvimento de uma comunidade ou blog. Sua vantagem está na aparência visual limpa e no design responsivo, permitindo que os usuários naveguem e interajam facilmente com o conteúdo.
 
-## ✨ Features
+## ✨ Funcionalidades
 
-| Feature          | Description                      |
-| ---------------- | -------------------------------- |
-| **💬 Comments**  | Add or delete comments on posts. |
-| **👏 Applauses** | Add applauses on posts.          |
+| Funcionalidade     | Descrição                                    |
+| ------------------ | -------------------------------------------- |
+| **💬 Comentários** | Adicione ou exclua comentários em postagens. |
+| **👏 Aplausos**    | Adicione aplausos em postagens.              |
 
 ## 🤖 Demo
 
@@ -108,19 +108,19 @@ https://github.com/guipmdev/ignite-feed/assets/136738335/180321d0-dd16-4f8e-b5ca
 
 ## 🎨 Layout
 
-The layout of the application was designed by **Rocketseat** and is available on [Figma](<https://www.figma.com/file/hHT4EixdfvcmT5KysEld5L/Ignite-Feed-(Community)>).
+O layout da aplicação foi projetado pela **Rocketseat** e está disponível no [Figma](<https://www.figma.com/file/hHT4EixdfvcmT5KysEld5L/Ignite-Feed-(Community)>).
 
 <p align="center">
   <img
     src="./src/assets/images/layout-cover.png"
-    alt="Web application layout image cover"
+    alt="Imagem de capa do layout da aplicação web"
     width="50%"
   />
 </p>
 
-## 🛠 Technologies
+## 🛠 Tecnologias
 
-The following tools were used to build the project:
+As seguintes ferramentas foram usadas para desenvolver esse projeto:
 
 ### Website
 
@@ -169,9 +169,9 @@ The following tools were used to build the project:
   </a>
 </p>
 
-_\* See the [<kbd>package.json</kbd>](./package.json) file_
+_\* Confira o arquivo [<kbd>package.json</kbd>](./package.json)_
 
-### Utils
+### Úteis
 
 <p>
   <a href="https://git-scm.com/">
@@ -206,66 +206,65 @@ _\* See the [<kbd>package.json</kbd>](./package.json) file_
   </a>
 </p>
 
-## 🚀 Getting Started
+## 🚀 Primeiros passos
 
-### ✔️ Prerequisites
+### ✔️ Pré-requisitos
 
-Before you begin, ensure that you have the following tools installed on your machine: [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/en/download). It's also good to have an editor to work with the code, such as [VSCode](https://code.visualstudio.com/Download).
+Antes de você começar, certifique-se que você tem as seguintes ferramentas instaladas na sua máquina: [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/en/download). Também é bom ter um editor para trabalhar com o código, como o [VSCode](https://code.visualstudio.com/Download).
 
-### 📦 Installation
+### 📦 Instalação
 
-1. Clone the repository:
+1. Clone o repositório:
 
 ```sh
 git clone https://github.com/guipmdev/ignite-feed/
 ```
 
-2. Change to the project directory:
+2. Mude para o diretório do projeto:
 
 ```sh
 cd ignite-feed
 ```
 
-3. Install the dependencies:
+3. Instale as dependências:
 
 ```sh
 npm install
 ```
 
-### ⚙️ Using
+### ⚙️ Usando
 
-1. Start the web application:
+1. inicie a aplicação web:
 
 ```sh
 npm run dev
 ```
 
-3. Access https://localhost:5173/ to view the application
+1. Acesse https://localhost:5173/ para visualizar a aplicação
 
-## 📄 License
+## 📄 Licença
 
-This project is licensed under the terms of the `MIT` license. See the
-[LICENSE](./LICENSE) file for additional info.
+Este projeto está licenciado de acordo com os termos da licença `MIT`. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
 
-## 👏 Acknowledgments
+## 👏 Reconhecimentos
 
-> - Many thanks to [Rocketseat](https://www.rocketseat.com.br/) for the layout and tips when putting this project together
+> - Muito obrigado à [Rocketseat](https://www.rocketseat.com.br/) pelo layout e pelas dicas de como montar este projeto
 
 <!-- ===== FOOTER ===== -->
 
 ---
 
 <p align="center">
-  Made with 💙 by
+  Feito com 💙 por
   <a href="https://www.guipm.dev/"> @guipm.dev </a>
-  - Feel free to
-  <a href="mailto:guipm.dev@gmail.com">contact me</a>!
+  - Fique à vontade para
+  <a href="mailto:guipm.dev@gmail.com">entrar em contato comigo</a>!
 </p>
 
 <br />
 
 <p align="center">
   <a href="#top">
-    <b>↑&nbsp;&nbsp; Return to the top &nbsp;&nbsp;↑</b>
+    <b>↑&nbsp;&nbsp; Voltar ao topo &nbsp;&nbsp;↑</b>
   </a>
 </p>
