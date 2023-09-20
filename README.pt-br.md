@@ -1,11 +1,16 @@
 <!-- ===== HEADER (Badges) ===== -->
-<p>
+<p align="end">
   <a href="./README.md" title="Read the README in english">
     <img
       src="https://img.shields.io/badge/lang-en-red?style=flat-square&labelColor=202024"
       alt="lang-en"
     />
   </a>
+  <img
+    src="https://img.shields.io/badge/lang-pt--br-gray?style=flat-square&labelColor=202024"
+    alt="lang-pt-br"
+    title="You are reading the README in Brazilian portuguese"
+  />
 </p>
 
 <h1 align="center">

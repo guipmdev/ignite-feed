@@ -1,6 +1,11 @@
 <!-- ===== HEADER (Badges) ===== -->
-<p>
-  <a href="./README.pt-br.md" title="Ler o README em português do Brasil">
+<p align="end">
+  <img
+    src="https://img.shields.io/badge/lang-en-gray?style=flat-square&labelColor=202024"
+    alt="lang-en"
+    title="Você está lendo o README em inglês"
+  />
+  <a href="./README.pt-br.md" title="Ler o README em português brasileiro">
     <img
       src="https://img.shields.io/badge/lang-pt--br-green?style=flat-square&labelColor=202024"
       alt="lang-pt-br"
@@ -33,7 +38,7 @@
     alt="Repository size"
   />
   <img
-    src="https://img.shields.io/github/commit-activity/m/guipmdev/ignite-feed?color=gray&labelColor=202024"
+    src="https://img.shields.io/github/commit-activity/m/guipmdev/ignite-feed?color=black&labelColor=202024"
     alt="Commit activity"
   />
   <a
