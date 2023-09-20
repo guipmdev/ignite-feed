@@ -37,8 +37,5 @@
     "url": "https://guipm.dev/"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/guipmdev/ignite-feed/issues"
-  },
   "homepage": "https://guipmdev-ignite-feed.vercel.app/"
 }

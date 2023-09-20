@@ -87,7 +87,7 @@
 - [🚀 Getting Started](#-getting-started)
   - [✔️ Prerequisites](#️-prerequisites)
   - [📦 Installation](#-installation)
-  - [⚙️ Using](#️-using)
+  - [⚙️ Usage](#️-usage)
 - [📄 License](#-license)
 - [👏 Acknowledgments](#-acknowledgments)
 </details>
@@ -237,7 +237,7 @@ cd ignite-feed
 npm install
 ```
 
-### ⚙️ Using
+### ⚙️ Usage
 
 1. Start the web application:
 
