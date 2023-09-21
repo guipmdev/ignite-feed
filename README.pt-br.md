@@ -96,9 +96,9 @@
 
 ## 📍 Visão geral
 
-A principal funcionalidade do projeto é criar uma aplicação web que possibilite aos usuários visualizarem e interagirem com publicações e comentários. Ele oferece uma interface fácil de visualizar as postagens, incluindo as informações do autor, o conteúdo e a data de publicação. Os usuários também podem deixar, curtir ou excluir comentários.
+Esse projeto é uma aplicação web desenvolvida em _React_ e _TypeScript_ que possibilita aos usuários visualizarem e interagirem com publicações e comentários por meio de uma interface extremamente fácil. Com ela, é possível visualizar todas as postagens, incluindo as informações do autor, o conteúdo e a data de publicação, além dos usuários poderem podem deixar, curtir ou excluir comentários.
 
-O objetivo desse projeto é facilitar a comunicação e o envolvimento de uma comunidade ou blog. Sua vantagem está na aparência visual limpa e no design responsivo, permitindo que os usuários naveguem e interajam facilmente com o conteúdo.
+Seu objetivo principal é facilitar a comunicação e o envolvimento de uma comunidade ou blog, tendo como uma das suas vantagens a aparência visual limpa e design responsivo, permitindo que os usuários naveguem e interajam mais facilmente com os conteúdos.
 
 ## ✨ Funcionalidades
 

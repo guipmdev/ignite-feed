@@ -96,9 +96,9 @@
 
 ## 📍 Overview
 
-The core functionality of the project is to create a web application that allows users to view and interact with posts and comments. It provides a user-friendly interface for displaying posts, including the author's information, content, and published date. Users can also leave comments on posts and like or delete comments.
+This project is a web application developed in _React_ and _TypeScript_ that allows users to view and interact with posts and comments through an extremely easy interface. With it, it is possible to view all posts, including author information, content and date of publication, and users can leave, like or delete comments.
 
-This project's purpose is to facilitate communication and engagement within a community or blog-like environment. Its value proposition lies in its clean visual appearance and responsive design, allowing users to easily navigate and interact with the content.
+Its main objective is to facilitate communication and involvement in a community or blog, and one of its advantages is its clean visual appearance and responsive design, allowing users to navigate and interact more easily with the content.
 
 ## ✨ Features
 
