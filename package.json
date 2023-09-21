@@ -1,6 +1,6 @@
 {
   "name": "ignite-feed",
-  "description": "React and TypeScript-based web app for interactive post and comment engagement in a community setting.",
+  "description": "Web app for interactive post reading with comments and applause",
   "private": true,
   "type": "module",
   "scripts": {

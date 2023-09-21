@@ -3,7 +3,6 @@
   <img
     src="https://img.shields.io/badge/lang-en-gray?style=flat-square&labelColor=202024"
     alt="lang-en"
-    title="Você está lendo o README em inglês"
   />
   <a href="./README.pt-br.md" title="Ler o README em português brasileiro">
     <img
@@ -64,7 +63,7 @@
   </a>
 </p>
 
-![Screenshot of the application initial page](./src/assets/images/cover.png)
+![Screenshot of the application initial page](./src/assets/images/cover.webp)
 
 <p align="center">
   <a href="https://guipmdev-ignite-feed.vercel.app/"
@@ -118,7 +117,7 @@ The layout of the application was designed by **Rocketseat** and is available on
 
 <p align="center">
   <img
-    src="./src/assets/images/layout-cover.png"
+    src="./src/assets/images/layout-cover.webp"
     alt="Web application layout image cover"
     width="50%"
   />
